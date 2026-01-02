@@ -1,17 +1,22 @@
-# final_project
+# Home Service App
 
-UCAS - Flutter Final Project
+A Flutter-based mobile application designed for home service bookings. This project showcases a modern UI implementation for a service booking platform, featuring onboarding, authentication, and order management flows. It is built as a final project for UCAS.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: Secure Login and Signup screens with specialized input fields.
+- **Onboarding**: An engaging onboarding experience to introduce users to the app features.
+- **Home Dashboard**: A central hub for users to browse and select home services.
+- **Order Management**: dedicated screens for detailing service issues and selecting locations (`OrderIssueScreen`, `OrderLocationScreen`).
+- **Media Support**: Integration with device camera and gallery for image selection.
+- **Modern UI/UX**: Polished interface using custom fonts (NunitoSans, Jannah) and SVG assets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# home_service_ui
+## Screenshots
+
+![App Screenshots](assets/images/hsApp1.png)
+![App Screenshots](assets/images/hsApp2.png)
+![App Screenshots](assets/images/hsApp3.png)
