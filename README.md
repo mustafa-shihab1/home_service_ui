@@ -1,6 +1,6 @@
 # Home Service App
 
-A Flutter-based mobile application designed for home service bookings. This project showcases a modern UI implementation for a service booking platform, featuring onboarding, authentication, and order management flows. It is built as a final project for UCAS.
+A Flutter-based mobile application designed for home service bookings. This project showcases a modern UI implementation for a service booking platform, featuring onboarding, authentication, and order management flows. It is built as a final project for Mobile Development Course at UCAS.
 
 ---
 
